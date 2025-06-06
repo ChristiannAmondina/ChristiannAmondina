@@ -1,44 +1,20 @@
-# 👋 Hey there! I'm Chris
+<h1 align="center">Hello there!, I'm I'm Christian 👋</h1>
+<h3 align="center">I’m a passionate developer who grew up blending creativity with problem-solving. Through the fusion of both, I deliver well-crafted, innovative projects and solutions.</h3>
 
-🎨 I'm a **Graphic Designer** turned **Computer Science** student  
-💻 I build things that blend creativity with code — from sleek UI designs to smart, adaptive systems
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christiannamondina&label=Profile%20views&color=0e75b6&style=flat" alt="christiannamondina" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christiannamondina" alt="christiannamondina" /></a> </p>
 
-## 🚀 What I'm Working On
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/parqchris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/parqchris/" height="30" width="40" /></a>
+</p>
 
-- 🎮 A **horror game** that reacts to your **facial emotion** using **CNN + Reinforcement Learning**
-- 🤖 AI systems that adapt to **player behavior** in real-time
-- 🧠 Simulations of **automata, grammars, and compilers** for fun and learning
-- 📦 Computer vision projects using **YOLO**, **OpenCV**, and **aerial imagery**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&locale=en&layout=compact" alt="christiannamondina" /></p>
 
-## 🧰 Tech & Tools I Use
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiannamondina&show_icons=true&locale=en" alt="christiannamondina" /></p>
 
-- Languages: `Python` 🐍 `JavaScript` 🌐 `C#` ⚙️  
-- Game Dev: `Unity` 🕹️ `ML-Agents` 🤖  
-- AI/ML: `TensorFlow` 🧠 `YOLOv5/v8` 🎯  
-- Design: `Figma` 🎨 `Adobe Suite` 🖌️  
-- Tools: `Git/GitHub` 🔧 `VSCode` 💡
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **Deep Learning** for games and vision  
-- Better **curriculum learning** strategies in RL  
-- Elegant **JavaScript & DOM manipulation** 🧩
-
----
-
-## 📫 Let’s Connect!
-
-- ✉️ Email: your.email@example.com  
-- 🧠 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle)  
-- 🧑‍💻 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-
----
-
-> ⚡ *“Blend logic with emotion. Code with a designer’s eye. Design with a coder’s mind.”*  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christiannamondina&" alt="christiannamondina" /></p>
