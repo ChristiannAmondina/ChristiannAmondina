@@ -74,14 +74,9 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" />
   </a>
 </p>
- <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="30" height="40" />
-  </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="30" height="40" />
-  </a>
 
-<h5 align="left">Explore My Documentation Platform:</h5>
+
+<h5 align="left">Explore -> Documentation Platform:</h5>
 <p align="left">
   <a href="https://your-docs-platform.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
