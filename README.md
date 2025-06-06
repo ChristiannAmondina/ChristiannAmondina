@@ -90,7 +90,7 @@ Experienced in front-end development, machine learning, and game development, I 
     </td>
     <td>
           <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
-        <img src="./Doc_platform2.png" alt="Documentation Platform" width="200px" />
+        <img src="./Doc_platform1.2.png" alt="Documentation Platform" width="200px" />
       </a>
     </td>
   </tr>
