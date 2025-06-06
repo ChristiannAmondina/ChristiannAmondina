@@ -35,7 +35,7 @@
 
 <!-- Programming Languages -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="40" />
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" />
@@ -46,7 +46,7 @@
 
 <!-- Machine Learning / AI Frameworks -->
 <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="30" />
 </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="40" />
@@ -54,7 +54,7 @@
 
 <!-- Computer Vision -->
 <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="30" />
 </a>
 
 <!-- Game Development / 3D Design -->
@@ -64,7 +64,7 @@
 
 <!-- Design Tools -->
 <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="30" />
 </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="40" />
