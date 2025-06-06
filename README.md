@@ -89,7 +89,7 @@ Experienced in front-end development, machine learning, and game development, I 
       </a>
     </td>
     <td>
-          <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.tiktok.com/@parkqdev/" target="_blank" rel="noopener noreferrer">
         <img src="./Doc_platform1.2.png" alt="Documentation Platform" width="200px" />
       </a>
     </td>
