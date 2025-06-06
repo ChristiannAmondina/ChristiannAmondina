@@ -5,7 +5,8 @@
   <img src="./setup2.jpg" alt="Setup Image" width="40%" />
 </p>
 <p align="left">
-I’m a passionate and versatile developer who blends creativity with problem-solving to build innovative solutions. With experience in front-end development, machine learning, and game development, I deliver well-crafted, purposeful projects. My journey is still evolving, and I stay eager to learn, grow, and improve every day.
+𝘐’𝘮 𝘢 𝘷𝘦𝘳𝘴𝘢𝘵𝘪𝘭𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘣𝘭𝘦𝘯𝘥𝘪𝘯𝘨 𝘤𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 𝘸𝘪𝘵𝘩 𝘱𝘳𝘰𝘣𝘭𝘦𝘮-𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘵𝘰 𝘥𝘦𝘭𝘪𝘷𝘦𝘳 𝘪𝘯𝘯𝘰𝘷𝘢𝘵𝘪𝘷𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴. 𝘞𝘪𝘵𝘩 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦 𝘪𝘯 𝘧𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘮𝘢𝘤𝘩𝘪𝘯𝘦 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨, 𝘢𝘯𝘥 𝘨𝘢𝘮𝘦 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘐 𝘤𝘳𝘦𝘢𝘵𝘦 𝘱𝘶𝘳𝘱𝘰𝘴𝘦𝘧𝘶𝘭 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘸𝘩𝘪𝘭𝘦 𝘤𝘰𝘯𝘵𝘪𝘯𝘶𝘰𝘶𝘴𝘭𝘺 𝘢𝘥𝘷𝘢𝘯𝘤𝘪𝘯𝘨 𝘮𝘺 𝘴𝘬𝘪𝘭𝘭𝘴.
+
 </p>
 
 
