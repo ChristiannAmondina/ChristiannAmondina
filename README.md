@@ -74,17 +74,19 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" />
   </a>
 </p>
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" />
+</p>
 
-
-<h5 align="left">Explore -> Documentation Platform:</h5>
+<h5 align="left">Explore -&gt; Documentation Platform:</h5>
 <p align="left">
   <a href="https://your-docs-platform.com" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
-
   </a>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" />
+</p>
 
