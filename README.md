@@ -76,7 +76,7 @@
 </p>
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=default)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiannamondina&show_icons=true&locale=en" alt="christiannamondina" /></p>
 
 
 <h5 align="left">Explore -> Documentation Platform:</h5>
