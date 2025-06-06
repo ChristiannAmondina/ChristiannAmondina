@@ -78,7 +78,7 @@ Experienced in front-end development, machine learning, and game development, I 
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
