@@ -64,7 +64,8 @@ I’m a passionate and versatile developer who blends creativity with problem-so
 
 <h3 align="left">Explore My Documentation Platform:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://your-docs-platform.com" target="_blank" rel="noopener noreferrer">
+    Click here to view my documentation
   </a>
 </p>
+
