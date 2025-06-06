@@ -5,7 +5,7 @@ I’m a passionate and versatile developer who blends creativity with problem-so
 </h4>
 <img src="./setup2.jpg" alt="Setup Image" width="300" />
 
-<p align="center">
+<p align="center" justify-content="center" display= "flex">
   <img src="https://komarev.com/ghpvc/?username=christiannamondina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
