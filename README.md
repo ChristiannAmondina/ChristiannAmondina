@@ -83,11 +83,12 @@ Experienced in front-end development, machine learning, and game development, I 
 </p>
 
 <h5 align="left">Explore -&gt; Documentation Platform:</h5>
-<p align="left">
+<p align="center">
   <a href="https://your-docs-platform.com" target="_blank" rel="noopener noreferrer">
-     <img src="./Doc_platform.png" alt="Setup Image" width="45%" />
+    <img src="./Doc_platform.png" alt="Documentation Platform" width="35%" />
   </a>
 </p>
+
 
 
 
