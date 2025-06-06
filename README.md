@@ -19,64 +19,72 @@ Experienced in front-end development, machine learning, and game development, I 
 
 
 <h5 align="left">Languages and Tools:</h5>
-<p align="left">
-<!-- Core Web (Vanilla development) -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="40" />
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="40" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="40" />
-</a>
 
-<!-- Frontend Framework -->
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="40" />
-</a>
 
-<!-- Programming Languages -->
-<a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="40" />
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" />
-</a>
-<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="40" />
-</a>
+<table>
+  <tr>
+    <td align="center" colspan="6"><strong>🌐 Core Web</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="40" /></a></td>
+    <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="40" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="40" /></a></td>
+  </tr>
 
-<!-- Machine Learning / AI Frameworks -->
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="30" />
-</a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="40" />
-</a>
+  <tr>
+    <td align="center" colspan="6"><strong>⚛️ Frontend Framework</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="40" /></a></td>
+  </tr>
 
-<!-- Computer Vision -->
-<a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="30" />
-</a>
+  <tr>
+    <td align="center" colspan="6"><strong>💻 Programming Languages</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="40" /></a></td>
+    <td><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" /></a></td>
+    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="40" /></a></td>
+  </tr>
 
-<!-- Game Development / 3D Design -->
-<a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30" height="40" />
-</a>
+  <tr>
+    <td align="center" colspan="6"><strong>🧠 AI / ML Frameworks</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="30" /></a></td>
+    <td><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="40" /></a></td>
+  </tr>
 
-<!-- Design Tools -->
-<a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="30" />
-</a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30" />
-</a>
+  <tr>
+    <td align="center" colspan="6"><strong>🧠 Computer Vision</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="30" /></a></td>
+  </tr>
 
-  <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" />
-  </a>
-</p>
+  <tr>
+    <td align="center" colspan="6"><strong>🎮 Game Dev & 3D</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30" height="40" /></a></td>
+    <td><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" /></a></td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong🎨 Design Tools</strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="30" /></a></td>
+    <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30" /></a></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 <table align="center">
   <tr>
