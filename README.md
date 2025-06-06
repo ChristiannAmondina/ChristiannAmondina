@@ -18,7 +18,7 @@ Experienced in front-end development, machine learning, and game development, I 
 
 <h5><strong>🛠️ Languages & Tools:</strong></h5>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
