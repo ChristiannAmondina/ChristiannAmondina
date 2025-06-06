@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./pic1.jpg" alt="Setup Image" width="45%" />
+  <img src="./pic1.png" alt="Setup Image" width="45%" />
 </p>
 <p>
 <p>
