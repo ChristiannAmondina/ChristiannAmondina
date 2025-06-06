@@ -35,7 +35,7 @@
 
 <!-- Programming Languages -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="30" />
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" />
