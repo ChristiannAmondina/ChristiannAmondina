@@ -16,7 +16,7 @@ Experienced in front-end development, machine learning, and game development, I 
 
 
 
-<h5><strong>🛠️ Languages & Tools:</strong></h5>
+<h5><strong>🛠️ Languages & Tools --> </strong></h5>
 
 <table align="center">
   <tr>
@@ -98,9 +98,8 @@ Experienced in front-end development, machine learning, and game development, I 
 
 
 
-
-
-
+<h5>Others --> </strong></h5>
+<br>
 
 
 <table align="center">
