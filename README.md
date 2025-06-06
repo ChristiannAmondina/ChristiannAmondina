@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./setup2.jpg" alt="Setup Image" width="40%" />
 </p>
-<h4 align="left">
+<h4 align="left" weight="light">
 I’m a passionate and versatile developer who blends creativity with problem-solving to build innovative solutions. With experience in front-end development, machine learning, and game development, I deliver well-crafted, purposeful projects. My journey is still evolving, and I stay eager to learn, grow, and improve every day.
 </h4>
 
