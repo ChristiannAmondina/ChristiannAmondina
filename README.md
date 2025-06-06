@@ -86,7 +86,5 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" />
-</p>
+
 
