@@ -7,7 +7,8 @@
 <p>
 <p>
 
-Hello there!   <img src="./wave-hello.gif" alt="Wave Hello" width="30" />  I'm **Christian**, a versatile developer who loves blending creativity with problem-solving to build innovative solutions 🚀. With experience in front-end development, machine learning, and game development, I create meaningful projects while constantly sharpening my skills 💡.
+   <img src="./wave-hello.gif" alt="Wave Hello" width="30" />  Hello there!, I’m **Christian**, a versatile developer blending creativity with problem-solving to deliver innovative solutions.  
+Experienced in front-end development, machine learning, and game development, I build purposeful projects while continuously advancing my skills.
 
 </p>
 
