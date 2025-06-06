@@ -82,13 +82,12 @@ Experienced in front-end development, machine learning, and game development, I 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" />
 </p>
 
-<h5 align="left">Explore -&gt; Documentation Platform:</h5>
+<h5 align="left">Explore → Documentation Platform:</h5>
 <p align="left">
-  <a href="[https://your-docs-platform.com](https://www.facebook.com/parqchris/)" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
     <img src="./Doc_platform.png" alt="Documentation Platform" width="35%" />
   </a>
 </p>
-
 
 
 
