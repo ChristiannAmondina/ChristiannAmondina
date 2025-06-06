@@ -36,15 +36,11 @@ I’m a passionate and versatile developer who blends creativity with problem-so
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
+ 
   <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
@@ -61,6 +57,12 @@ I’m a passionate and versatile developer who blends creativity with problem-so
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" />
   </a>
 </p>
+ <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
+  </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
+  </a>
 
 <h5 align="left">Explore My Documentation Platform:</h5>
 <p align="left">
