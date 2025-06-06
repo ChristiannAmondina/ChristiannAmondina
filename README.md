@@ -85,7 +85,7 @@ Experienced in front-end development, machine learning, and game development, I 
 <h5 align="left">Explore → Documentation Platform:</h5>
 <p align="left">
   <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
-    <img src="./Doc_platform.png" alt="Documentation Platform" width="35%" />
+    <img src="./Doc_platform1.png" alt="Documentation Platform" width="35%" />
   </a>
 </p>
 
