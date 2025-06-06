@@ -78,16 +78,14 @@ Experienced in front-end development, machine learning, and game development, I 
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" />
-</p>
-
-<h5 align="left">Explore → Documentation Platform:</h5>
-<p align="left">
-  <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
-    <img src="./Doc_platform1.png" alt="Documentation Platform" width="35%" />
-  </a>
-</p>
-
-
+<div align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+  <div style="display: inline-block;">
+    <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
+      <img src="./Doc_platform1.png" alt="Documentation Platform" width="200px" />
+    </a>
+  </div>
+</div>
 
