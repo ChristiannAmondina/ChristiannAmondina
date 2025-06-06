@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./setup2.jpg" alt="Setup Image" width="40%" />
+  <img src="./setup2.jpg" alt="Setup Image" width="30" />
 </p>
 <p>
 <img src="./wave-hello.gif" alt="Wave Hello" width="40%" />
