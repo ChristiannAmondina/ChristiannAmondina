@@ -1,8 +1,7 @@
 <h1 align="center">Hello there! I'm Christian 👋</h1>
 
 <h5 align="center">
-  I’m a passionate developer who grew up blending creativity with problem-solving.
-  Through the fusion of both, I deliver well-crafted, innovative projects and solutions.
+I’m a passionate and versatile developer who blends creativity with problem-solving to build innovative solutions. With experience in front-end development, machine learning, and game development, I deliver well-crafted, purposeful projects. Although my journey is still unfolding, I remain eager to learn, grow, and improve every day.
 </h5>
 
 <p align="center">
