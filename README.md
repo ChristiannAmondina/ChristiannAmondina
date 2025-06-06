@@ -85,7 +85,7 @@ Experienced in front-end development, machine learning, and game development, I 
 <h5 align="left">Explore -&gt; Documentation Platform:</h5>
 <p align="left">
   <a href="https://your-docs-platform.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+     <img src="./Doc_platform.png" alt="Setup Image" width="45%" />
   </a>
 </p>
 
