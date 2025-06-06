@@ -98,9 +98,8 @@ Experienced in front-end development, machine learning, and game development, I 
 
 
 
-<h5>Others --> </strong></h5>
+<h5>📊 Others --> </strong></h5>
 <br>
-
 
 <table align="center">
   <tr>
