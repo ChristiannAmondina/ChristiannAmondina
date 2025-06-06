@@ -3,9 +3,12 @@
 <h4 align="left">
 I’m a passionate and versatile developer who blends creativity with problem-solving to build innovative solutions. With experience in front-end development, machine learning, and game development, I deliver well-crafted, purposeful projects. My journey is still evolving, and I stay eager to learn, grow, and improve every day.
 </h4>
-<img src="./setup2.jpg" alt="Setup Image" width="300" />
+<p align="center">
+  <img src="./setup2.jpg" alt="Setup Image" width="50" />
+</p>
 
-<p align="center" justify-content="center" display= "flex">
+
+<p align="center" >
   <img src="https://komarev.com/ghpvc/?username=christiannamondina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
