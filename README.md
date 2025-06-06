@@ -74,6 +74,9 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="30" height="30" />
   </a>
 </p>
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&theme=default)
 
 
 <h5 align="left">Explore -> Documentation Platform:</h5>
