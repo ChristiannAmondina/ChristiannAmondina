@@ -76,12 +76,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&locale=en&layout=compact" alt="christiannamondina" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="christiannamondina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiannamondina&show_icons=true&theme=dark&locale=en" alt="christiannamondina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiannamondina&show_icons=true&theme=dracula&locale=en" alt="christiannamondina" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christiannamondina&" alt="christiannamondina" /></p>
-
 
 
 <h5 align="left">Explore -> Documentation Platform:</h5>
