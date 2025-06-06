@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! I'm Christian 👋</h1>
 
-<h3 align="center">
+<h5 align="center">
   I’m a passionate developer who grew up blending creativity with problem-solving.
   Through the fusion of both, I deliver well-crafted, innovative projects and solutions.
-</h3>
+</h5>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=christiannamondina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
