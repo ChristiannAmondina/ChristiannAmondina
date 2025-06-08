@@ -100,6 +100,7 @@ Experienced in front-end development, machine learning, and game development, I 
       width="30"
       height="30"
       style="filter: brightness(0) invert(1);"
+      fill="white
     />
   </a>
 </td>
