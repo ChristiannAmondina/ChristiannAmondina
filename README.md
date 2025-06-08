@@ -18,7 +18,7 @@ Experienced in front-end development, machine learning, and game development, I 
 
 <table align="center">
   <tr>
-    <!-- Frontend Core: HTML, CSS, JavaScript -->
+    <!-- Frontend Core: HTML, CSS, Tailwind, JavaScript -->
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30" />
@@ -27,6 +27,11 @@ Experienced in front-end development, machine learning, and game development, I 
     <td align="center">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="30" />
       </a>
     </td>
     <td align="center">
@@ -94,6 +99,7 @@ Experienced in front-end development, machine learning, and game development, I 
     </td>
   </tr>
 </table>
+
 
 <h5>📊 Others --> </h5>
 <br>
