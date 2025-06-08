@@ -92,16 +92,18 @@ Experienced in front-end development, machine learning, and game development, I 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30" />
       </a>
     </td>
-    <td align="center">
+ <td style="text-align: center;">
   <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://logo.svgcdn.com/l/threejs.svg"
-      alt="three.js"
+      alt="Three.js"
       width="30"
       height="30"
+      style="filter: brightness(0) invert(1);"
     />
   </a>
 </td>
+
   </tr>
 </table>
 
