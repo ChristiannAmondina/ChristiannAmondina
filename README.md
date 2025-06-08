@@ -93,10 +93,10 @@ Experienced in front-end development, machine learning, and game development, I 
       </a>
     </td>
  <td style="text-align: center;">
-   <img src="./3js.png" alt="Setup Image" width="45%" />
+   <img src="./3js.png" alt="Setup Image" width="45" />
 </td>
 <td style="text-align: center;">
-   <img src="./ps.png" alt="Setup Image" width="45%" />
+   <img src="./ps.png" alt="Setup Image" width="45" />
 </td>
 
   </tr>
