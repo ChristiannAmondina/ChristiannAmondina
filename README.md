@@ -128,25 +128,4 @@ Experienced in front-end development, machine learning, and game development, I 
 
 
 
-<h5>📊 Others --> </strong></h5>
-<br>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <td>
-      <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
-        <img src="./Doc_platform.png" alt="Documentation Platform" width="200px" />
-      </a>
-    </td>
-    <td>
-          <a href="https://www.tiktok.com/@parkqdev/" target="_blank" rel="noopener noreferrer">
-        <img src="./Doc_platform1.2.png" alt="Documentation Platform" width="200px" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
