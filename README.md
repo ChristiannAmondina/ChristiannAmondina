@@ -93,16 +93,10 @@ Experienced in front-end development, machine learning, and game development, I 
       </a>
     </td>
  <td style="text-align: center;">
-  <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://logo.svgcdn.com/l/threejs.svg"
-      alt="Three.js"
-      width="30"
-      height="30"
-      style="filter: brightness(0) invert(1)"
-      fill="white;"
-    />
-  </a>
+   <img src="./3js.png" alt="Setup Image" width="45%" />
+</td>
+<td style="text-align: center;">
+   <img src="./ps.png" alt="Setup Image" width="45%" />
 </td>
 
   </tr>
