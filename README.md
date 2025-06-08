@@ -92,11 +92,11 @@ Experienced in front-end development, machine learning, and game development, I 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30" />
       </a>
     </td>
- <td style="text-align: center;">
-   <img src="./3js.png" alt="Setup Image" width="45" />
+ <td align="center">
+   <img src="./3js.png" alt="Setup Image" width="35" />
 </td>
-<td style="text-align: center;">
-   <img src="./ps.png" alt="Setup Image" width="45" />
+ <td align="center">
+   <img src="./ps.png" alt="Setup Image" width="35" />
 </td>
 
   </tr>
