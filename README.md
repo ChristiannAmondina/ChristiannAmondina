@@ -93,12 +93,15 @@ Experienced in front-end development, machine learning, and game development, I 
       </a>
     </td>
  <td align="center">
-   <img src="./3js.png" alt="Setup Image" width="35" />
-</td>
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
+       <img src="./ps.png" alt="Setup Image" width="35" />
+      </a>
+    </td>
  <td align="center">
-   <img src="./ps.png" alt="Setup Image" width="35" />
-</td>
-
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
+       <img src="./3js.png" alt="Setup Image" width="35" />
+      </a>
+    </td>
   </tr>
 </table>
 
