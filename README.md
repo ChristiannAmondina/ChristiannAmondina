@@ -22,12 +22,12 @@ Experienced in front-end development, machine learning, and game development, I 
   <tr>
     <td align="center">
       <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="30" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="30" />
       </a>
     </td>
     <td align="center">
