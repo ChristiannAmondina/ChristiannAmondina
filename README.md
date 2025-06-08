@@ -82,6 +82,11 @@ Experienced in front-end development, machine learning, and game development, I 
         <img src="./3js.png" alt="Three.js" width="30" />
       </a>
     </td>
+        <td align="center">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" />
+      </a>
+    </td>
   </tr>
 </table>
 
