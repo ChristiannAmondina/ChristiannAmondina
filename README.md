@@ -20,22 +20,71 @@ Experienced in front-end development, machine learning, and game development, I 
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/></a></td>
-    <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/></a></td>
-    <td align="center"><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40"/></a></td>
-    <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/></a></td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40"/></a></td>
-    <td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/></a></td>
-    <td align="center"><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40"/></a></td>
-    <td align="center"><a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" height="40"/></a></td>
-    <td align="center"><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" height="40"/></a></td>
-    <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40"/></a></td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://opencv.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
+        <img src="./ps.png" alt="Photoshop" width="35" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://threejs.org/" target="_blank" rel="noopener noreferrer">
+        <img src="./3js.png" alt="Three.js" width="35" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
