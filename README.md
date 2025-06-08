@@ -87,6 +87,12 @@ Experienced in front-end development, machine learning, and game development, I 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="40" />
       </a>
     </td>
+    <td align="center">
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="40" />
+  </a>
+</td>
+
   </tr>
 </table>
 
