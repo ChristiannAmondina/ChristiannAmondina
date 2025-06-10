@@ -107,7 +107,7 @@ Experienced in front-end development, machine learning, and game development, I 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christiannamondina&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parkqdev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
     </td>
     <td>
       <a href="https://www.facebook.com/parqchris/" target="_blank" rel="noopener noreferrer">
